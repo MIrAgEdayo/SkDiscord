@@ -1,0 +1,8 @@
+name: SkDiscord
+version: 1.0-Beta
+main: si.f5.mirage.SkDiscord
+author: _mIrAgEdayo_
+description: Epic Addon
+depend:
+  - Skript
+  - Vixio
